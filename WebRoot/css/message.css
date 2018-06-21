@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+.message{
+background:#E8E8E8; 
+margin-top:80px;
+margin-left:auto;
+margin-right:auto;
+width:500px;
+height:auto;
+
+
+}
+.messagebu{
+background:#E8E8E8; 
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+padding-left:-1px;
+padding-right:-1px;
+width:500px;
+height:auto;
+border:1px solid #0033FF;
+
+}
+.td1{
+padding-top:30px;
+text-align:center;
+border:1px solid #0033FF;
+margin-top:0px;
+width:20%;
+
+}
+.td2{
+padding-top:30px;
+text-align:center;
+border:1px solid #0033FF;
+margin-top:0px;
+width:80%;
+
+}
+.td3{
+padding-top:30px;
+text-align:center;
+border:1px solid #0033FF;
+margin-top:0px;
+width:100%;
+
+}
+
+/*.td{
+	width:100%;
+	padding-top:30px;
+    text-align:center;
+    border:1px solid #0033FF;
+    margin-top:0px;
+}*/
+.button{
+margin-left:20px;
+margin-right:20px;
+padding-left:200px;
+margin-bottom:15px;
+padding-right:200px;
+
+}

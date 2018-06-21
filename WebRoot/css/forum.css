@@ -1,0 +1,82 @@
+@CHARSET "UTF-8";
+.logotop{               
+	   /*顶部菜单*/
+	   border-bottom:2px double #383838;
+	   width:100%;
+	   height:40px;
+	}
+	.logotop a{
+	color:black;/*右上角链接的字体颜色*/
+	}
+	.logotop a:hover{
+	color:bule;/*点击时候的颜色，貌似未实现*/
+	}
+	#logo{
+	/*左上角校园论坛的样式*/
+	   font-size:20px;
+	   font-style:oblique;
+	   font-weight:bold;
+	   font-family:宋体;
+	   
+	}
+	.righttop{
+	   text-align:right;
+	}
+	.righttop a{
+	   margin-right:10px;
+	}
+	.formlist{/*中间列表的样式*/
+	   width:100% ;
+	   margin-top:40px;
+	   background-color: white;
+	   padding-bottom:50px;
+	   border:1px solid #0000FF ;
+	   font-family:楷体;
+	   font-size:18px;
+	   
+	}
+	
+	.borad{/*板块的样式*/
+	  margin-top:50px;
+	  margin-left:auto;
+	  margin-right:auto;
+	  height:400px;
+	  height:auto;
+	  min-height:500px;
+	  width:800px; 
+	  background:#E8E8E8;
+	  border:2px solid #888888;
+	}
+	.ttr td{    /*每一行的底部边框*/
+	border-bottom:1px solid #BBB;
+	border-left:1px solid #BBB;
+	padding-bottom:50px;
+	}
+	.boradtop{
+	border:1px solid #C0C0C0;
+	background-image:url(images/logobg.png);
+	}
+	.boradtop img{
+	 width:100px;
+	 height:100px;
+	}
+	.boradtop span{   /*板块上部的字体的样式*/
+	
+	font-size:40px;
+	font-family:"楷体";
+	color:#404040;
+    
+	font-style:italic;
+	}
+	.button{   /*按钮的样式*/
+	background-color: #909090;
+	padding: 5px 20px;
+	border-radius: 2px;
+	border:2px solid #A8A8A8;
+	}
+	.button:hover{
+	background-color: 33FF00;
+	padding: 5px 20px;
+	border-radius: 2px;
+	border:2px solid #A8A8A8;
+	}

@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+.code{
+	background:url(../images/code/3.jpg);
+	font-family:Arial;
+	font-style:italic;
+	color:blue;
+	font-size:30px;
+	border:0;
+	padding:2px 3px;
+	letter-spacing:3px;
+	font-weight:bolder;
+	float:center;
+	cursor:pointer;
+	width:150px;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+a{
+	text-decoration:none;
+	font-size:12px;
+	color:#288bc4;
+}
+
+a:hover{
+	text-decoration:underline;
+}
